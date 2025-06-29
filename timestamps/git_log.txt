@@ -1,0 +1,5 @@
+1cecb1a - Striatp, 2025-06-29 20:20:30 +0200 : Creation and publication evidence files.
+a0eb10f - Striatp, 2025-06-29 20:20:11 +0200 : Trademark notices documentation.
+a3d7c82 - Striatp, 2025-06-29 20:19:31 +0200 : License documentation.
+3f19bb7 - Striatp, 2025-06-29 20:19:18 +0200 : Legals-related README documentation.
+def1766 - Striatp, 2025-06-29 20:19:00 +0200 : Copyright claims documentation.
